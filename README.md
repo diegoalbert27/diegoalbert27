@@ -5,9 +5,9 @@
   
   *Software Development* 💻
   
-  <a href="https://www.linkedin.com/in/diego-hinagas/">
-    <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
-  </a>
+  ![Twitter Follow](https://img.shields.io/twitter/follow/diego_hinagas?label=Follow)
+  [![Linkedin: diegohinagas](https://img.shields.io/badge/-diegohinagas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-hinagas/)](https://www.linkedin.com/in/anmol-p-singh/)
+  ![GitHub followers](https://img.shields.io/github/followers/diegoalbert27?label=Follow&style=social)
 </div>
 
 I'm a software developer, i like to build wonderful things and seek new knowledge to learn.
@@ -23,8 +23,3 @@ I'm a software developer, i like to build wonderful things and seek new knowledg
   "Tools": ["VScode", "Git", "Github", "Figma", "Canvas", "Docker", "AWS", "Terminal", "Linux"]
 }
 ```
-
----
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
