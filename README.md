@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/48531350/273318682-1833c562-a573-4d3d-beca-f9f4f0a67d43.gif" width="200" />
-
   <h1>Hi! My name is Diego👋</h1>
+
+  <img src="https://user-images.githubusercontent.com/48531350/273318682-1833c562-a573-4d3d-beca-f9f4f0a67d43.gif" width="200" />
   
   *Software Development* 💻
   
