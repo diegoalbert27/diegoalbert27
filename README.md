@@ -24,3 +24,7 @@ I'm a software developer, i like to build wonderful things and seek new knowledg
 }
 ```
 
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
