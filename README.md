@@ -5,8 +5,8 @@
   
   *Software Development* 💻
   
-  ![Twitter Follow](https://img.shields.io/twitter/follow/diego_hinagas?label=Follow)
-  [![Linkedin: diegohinagas](https://img.shields.io/badge/-diegohinagas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-hinagas/)](https://www.linkedin.com/in/anmol-p-singh/)
+  ![Twitter Follow](https://img.shields.io/twitter/follow/diego_hinagas?label=Follow)(https://twitter.com/diego_hinagas)
+  [![Linkedin: diegohinagas](https://img.shields.io/badge/-diegohinagas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-hinagas/)](https://www.linkedin.com/in/diegohinagas/)
   ![GitHub followers](https://img.shields.io/github/followers/diegoalbert27?label=Follow&style=social)
 </div>
 
