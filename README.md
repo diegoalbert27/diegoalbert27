@@ -3,7 +3,7 @@
 
   <img src="https://user-images.githubusercontent.com/48531350/273318682-1833c562-a573-4d3d-beca-f9f4f0a67d43.gif" width="200" />
   
-  *Software Development* 💻
+  *Software Developer* 💻
   
   ![Twitter Follow](https://img.shields.io/twitter/follow/diego_hinagas?label=Follow)
   [![Linkedin: diegohinagas](https://img.shields.io/badge/-diegohinagas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-hinagas/)](https://www.linkedin.com/in/diego-hinagas/)
