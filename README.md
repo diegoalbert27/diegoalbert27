@@ -18,8 +18,9 @@ I'm a software developer, i like to build wonderful things and seek new knowledg
 {
   "Frontend": ["HTML", "CSS", "Javascript", "Bootstrap 5", "Tailwind", "React", "Vue"],
   "Backend": ["PHP", "Laravel", "Node", "Express", "Nest", "Typescript", "Python"],
-  "Databases": ["MySQL", "MongoDB", "Redis"],
-  "Testing": ["PHPUnit", "Cypress", "TDD", "Jest"],
-  "Tools": ["VScode", "Git", "Github", "Figma", "Canvas", "Docker", "AWS", "Terminal", "Linux"]
+  "Databases": ["MySQL", "MongoDB", "Postgres"],
+  "Testing": ["PHPUnit", "Jest"],
+  "Tools": ["VScode", "Git", "CI/CD", "Figma", "Docker", "AWS", "Linux"],
+  "Skills": ["DDD", "SOLID", "Clean Code", "Clean Architecture", "TDD"]
 }
 ```
