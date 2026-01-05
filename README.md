@@ -10,7 +10,7 @@
   ![GitHub followers](https://img.shields.io/github/followers/diegoalbert27?label=Follow&style=social)
 </div>
 
-I'm a software developer, i like to build wonderful things and seek new knowledge to learn.
+I'm a software developer, I like to build wonderful things and seek new knowledge to learn.
 
 ## Knowledges 🧠
 
